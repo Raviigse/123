@@ -1,0 +1,39 @@
+*{
+    font-family: Garamond;
+}
+.baner{
+    background-color: saddlebrown;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+.blok_lewy{
+    background-color: tan;
+    height: 500px;
+    width: 40%;
+    float: left;
+}
+.blok_prawy1,.blok_prawy2{
+    background-color: tan;
+    height: 250px;
+    width: 60%;
+    float: right;
+}
+.stoopka{
+    background-color: saddlebrown;
+    color: white;
+    clear: both;
+    
+}
+form{
+    background-color: saddlebrown;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 300px;
+}
+input{
+    margin: 5px;
+}
